@@ -52,7 +52,7 @@ Based on the above data tables, please write SQL queries to:
 
 5. Show all months of the year 2018 that the number of customers applying for loans is 20% higher than the monthly average number of customers of the year.
 
-6. Show the names of all leads who applied in 2019 and are older than 95% of all leads who applied in 2017
+6. Show the names of all leads who applied in 2019 and are older than 95% of all leads who applied in 2017.
 
 
 
